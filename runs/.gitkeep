@@ -1,0 +1,9 @@
+# This directory stores run outputs
+# Each run creates a subdirectory: runs/<run_id>/
+# Contents:
+#   - plan.json
+#   - retrieved.json
+#   - draft.md
+#   - critique.md
+#   - final.md
+#   - trace.jsonl
